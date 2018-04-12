@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'alegreya-bold';
+    src: url('fonts/Alegreya/AlegreyaSans-Bold.otf');
+    font-style: bold;
+}
+
+.navbar-pav {
+	background-color:#c40000;
+	border: 	0;
+	margin-bottom: 0;
+	height: : 100px;
+}
+
+.nav.navbar-nav.navbar-right li a {
+	color:white;
+	font-weight: bold;
+	font-size: 1.3em;
+	font-family: 'alegreya-bold',arial,sans-serif;
+}
+
+.navbar-nav li:last-child {
+    background: black;
+}
+
+.nav.navbar-nav.navbar-right li a:hover,
+.nav.navbar-nav.navbar-right li a:focus {
+   color: #f7f2f2;
+   background-color: transparent;
+}
+
+.containter-fluid-pav{
+	padding-left: 0;
+}
+
+.navbar-brand-pav{
+	padding-top: 0;
+}
+
+.parallax { 
+    /* The image used */
+    background-image: url("../img/fondo.jpg");
+
+    /* Set a specific height */
+    height: 1080px; 
+    width: 1920px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
