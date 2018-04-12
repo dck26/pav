@@ -15,22 +15,54 @@
   <?php
     include "modulos/menu-principal.php";
   ?>
-  <div class="parallax"></div>
+  <div class="parallax">
+    <div class="titulo-centrado">
+      PUERTAS AUTOMÁTICAS DE VERACRUZ
+    </div>
+  </div>
   <div class="container">
+  <div class="row">
+    <div class="col-sm-12 text-center">
+      <h2>NOSOTROS
+        <br><small>Nuestra compañía</small>
+      </h2>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-6">
+      <p><strong>PUERTAS AUTOMÁTICAS DE VERACRUZ, S. A. DE C. V.</strong>
+      Fue fundada en el año de 1983.</p>
+      <p>Somos una empresa que brinda confianza a Nuestros clientes por experiencia y conocimiento. Lo que nos hace ser líderes en el Mercado. Nuestro objetivo en la Venta es: instalación y servicio de puertas automáticas de cristal templado, frigoríficas, de quirófano, rampas de andén, cortinas enrollables y todos sus accesorios, satisfaciendo así las demandas de nuestros clientes en agencias de autos, ramo residencial, supermercados, centros comerciales, hoteles, aeropuertos y hospitales.</p>
 
-<p>
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quis eleifend arcu, sed ullamcorper urna. Aliquam pellentesque lorem eros, nec pellentesque nisl varius eu. Nulla urna libero, ullamcorper id ullamcorper non, luctus id nisi. Ut pretium egestas enim, in ultrices neque placerat at. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis elementum egestas odio, at egestas velit tempor in. Nunc sodales eros odio, sed blandit nulla suscipit sed.
+      <p>Creamos diseños sobre proyectos específicos, cubriendo las más altas normas en Seguridad, Calidad y Servicio. Todos nuestros productos tienen garantía, ello proporciona a nuestros clientes Confianza y Seguridad en su Utilización, Manejo y Uso.</p>
 
-Etiam lacinia a velit sed dignissim. Aenean vitae eros et mauris placerat iaculis. Praesent feugiat egestas nisl non tempor. Donec lorem lorem, elementum id ligula eu, eleifend aliquet lectus. Praesent tristique mi massa, eu ornare est hendrerit sit amet. Nullam in enim sed orci euismod tempus ac a arcu. Pellentesque lorem ante, eleifend sit amet ligula varius, condimentum porta libero. Praesent aliquam eros erat, ac placerat augue convallis quis. Ut id viverra ligula. In gravida iaculis libero, eu pharetra tellus congue eu. Vivamus luctus lacus dolor, sed consequat nisl faucibus convallis.
+      <p>Actualmente nuestra empresa cuenta con:
+      1.  Una Planta de: 3,000 m2 en Boca del Rio Veracruz, donde realizamos ensamble de puertas automáticas de cristal, cortinas rápidas enrollables, ventanas y cancelería de PVC. 2. Oficinas Centrales e nRuiz Cortines No. 505-B. Veracruz 3. Distribuidora Puebla 4. Distribuidora Monterrey 5. Distribuidora Villa Hermosa 6. Distribuidora Chihuahua 
+      7.  Equipo de trabajo en México </p>
+      <p>Con más de 80 colaboradores entre áreas administrativas y operativas, Puertas Automáticas de Veracruz S.A de C.V, es ahora una gran familia donde creemos que la fortaleza de nuestra gente son nuestro mayor activo</p>
 
-Aenean bibendum tortor non enim malesuada blandit. Sed eleifend placerat nisi sed elementum. Nullam maximus nisi sed consequat convallis. In eu dolor odio. Curabitur id est commodo, aliquet massa sed, elementum nisi. Nunc ut posuere ante, eget ultricies tellus. Etiam malesuada pharetra dui, quis eleifend leo mattis ut. Vestibulum semper hendrerit nulla ac tincidunt.
+    </div>
+    <div class="col-sm-6">
+      <p class="text-center"><strong>MISIÓN</strong></p>
 
-Etiam et massa sit amet arcu viverra faucibus quis quis erat. Nulla facilisi. Vivamus pellentesque in tortor in tincidunt. Nunc sit amet neque bibendum, varius libero sit amet, fringilla lorem. Vivamus lacus turpis, efficitur vitae dui euismod, malesuada interdum eros. Morbi ac ipsum sagittis, dignissim arcu sit amet, ultricies risus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In cursus scelerisque mi, non malesuada ligula lacinia et. Praesent a erat nec tellus interdum pretium. Morbi fringilla efficitur nibh, quis iaculis odio tincidunt ac. Donec leo ligula, consectetur non ullamcorper eu, convallis ac libero. Duis eu ullamcorper turpis. Sed tincidunt nunc eu massa efficitur congue. Mauris id auctor lectus, faucibus auctor est. Cras viverra eget libero faucibus porta.
+      <p>Somos una empresa sólida con productos y procesos de calidad en la elaboración, instalación, suministro y mantenimiento de accesos en el sector residencial, comercial, industrial y hotelero conformado por un gran equipo de gente comprometida y profesional, logrando un objetivo común: la satisfacción de nuestros clientes.</p>
 
-Curabitur ante nisl, efficitur et porta ut, sollicitudin id sapien. Nam vitae sem at ipsum fringilla venenatis eu a nibh. Vestibulum aliquet, libero id porta mollis, dolor turpis tempus justo, varius dapibus nisl lectus vitae ex. Nullam viverra, quam eu sodales tincidunt, odio elit bibendum nisl, efficitur hendrerit felis massa in turpis. Maecenas nec augue augue. Sed et congue urna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel sagittis justo, quis condimentum leo. Sed sed justo urna. Nullam vel convallis neque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi vel auctor lorem. Fusce vulputate sagittis nunc vel auctor. Mauris maximus vulputate aliquet.
-</p>
+      <p class="text-center"><strong>VISIÓN</strong></p>
+ 
+      <p>Ser una empresa líder en el mercado transnacional con procesos eficientes y productos innovadores y de la más alta calidad cumpliendo las más altas expectativas de nuestros clientes internos y externos.</p>
+
+      <p class="text-center"><strong>VALORES</strong></p>
+      <ul>
+        <li>Respeto</li>
+        <li>Actitud</li>
+        <li>Compromiso</li>
+        <li>Confianza</li>
+        <li>Trabajo en Equipo</li>
+        <li>Liderazgo</li>
+      </ul>
+    </div>
+  </div>
     <!-- Container element -->
-
 </div>
 
 </body>
